@@ -11,12 +11,12 @@ const Navbar = () => {
                     </a>
                 </h2>
                 <div className='flex'>
-                    <ul className='flex gap-4 text-white'>
+                    <ul className='md:flex gap-4 text-white hidden md:visible'>
                         <li>
                             <a href='#hero'>Home</a>
                         </li>
                         <li>
-                            <a href='#about'>About</a>
+                            <a href='#about'>About Us</a>
                         </li>
                         <li>
                             <a href='#work'>Our Work</a>
