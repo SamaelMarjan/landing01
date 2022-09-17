@@ -9,7 +9,7 @@ const Hero = () => {
         <div className='mt-[50px] md:mt-[80px] flex bg-[#242526] w-[100%] h-[500px] md:h-[650px]'>
             <div className='w-[85%] h-[100%] m-auto mt-[50px] md:mt-[100px] flex justify-center'>
                 <div>
-                    <h1 className='w-[200px] md:w-[440px] h-[100px] md:h-[150px] text-white text-xl md:text-4xl lg:5xl font-bold'>
+                    <h1 className='w-[200px] md:w-[440px] h-[100px] md:h-[150px] text-white text-xl md:text-4xl lg:text-5xl font-bold'>
                         We Are The Best <span className='block'><span className=' text-[#FF5300]'>Digital Agency</span> for </span>
                         business
                     </h1>

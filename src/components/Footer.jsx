@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <div id='footer'>
-      <div className='footer'>Footer</div>
+      <div className='md:w-[100%] md:h-[200px]'>Footer</div>
     </div>
   );
 }
